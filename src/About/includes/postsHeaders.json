@@ -1,0 +1,16 @@
+ [
+  
+    {
+      "id": "id",
+      "label": "ID"
+    },
+    {
+      "id": "title",
+      "label": "TITLE"
+    },
+    {
+      "id": "body",
+      "label": "BODY"
+    }
+
+  ]
